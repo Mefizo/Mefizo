@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Middleman0001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![discord](https://discord.c99.nl/widget/theme-3/220751792865017857.png)
 
-<!---
-Middleman0001/Middleman0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![dupa](https://github-readme-stats.vercel.app/api?username=Middleman0001&hide=contribs&count_private=true&show_icons=true)
+
+- 👋 Hi, I’m Żomy
+- 📫 How to reach me żomy#5789
