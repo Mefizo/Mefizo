@@ -2,5 +2,5 @@
 
 ![dupa](https://github-readme-stats.vercel.app/api?username=Middleman0001&hide=contribs&count_private=true&show_icons=true)
 
-- 👋 Hi, I’m Żomy
-- 📫 How to reach me żomy#5789
+- 👋 Hi, I’m cwel
+- 📫 How to reach me cwel#0001
