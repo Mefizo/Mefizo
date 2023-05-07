@@ -3,4 +3,4 @@
 ![dupa](https://github-readme-stats.vercel.app/api?username=Mefizo&hide=contribs&count_private=true&show_icons=true)
 
 - 👋 Hi, I’m Mefizo
-- 📫 How to reach me Mefizo#0001
+- 📫 How to reach me Mefizo#1327
